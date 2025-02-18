@@ -24,13 +24,13 @@
   <br>
   
 <h3> Contatos: </h3>
-  <a href="danieljuniorpantojapureza@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" /></a>
+  <a href="mailto:danieljuniorpantojapureza@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" /></a>
   <a href="https://www.linkedin.com/in/danielpantoja6/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" /></a>
   <br>
   <br>
   
   <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-pantoja&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-pantoja&layout=compact&show_icons=true&theme=dark"/>
   </div>
   <br>
 
